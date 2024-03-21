@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application-Hass del oriente</string>
+    <string name="titulo">Ingresar informacion del producto</string>
+    <string name="producto">Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="referencia">Referencia</string>
+    <string name="boton">Buscar producto</string>
+    <string name="subtitulo">Resultado de busqueda</string>
+    <string name="resultado">Resultado</string>
+</resources>
